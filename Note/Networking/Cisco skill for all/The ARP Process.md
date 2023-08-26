@@ -1,5 +1,3 @@
-The ARP Process
-
 || **MAC and IP** ||
 Usually a host send a message to the devices when that know that IP address and Mac address of that devices. But sometimes a host must send a message in it only know the IP address of the destination device.
 
@@ -44,32 +42,3 @@ The sending host receives the message and stores the MAC address and IPv4 addres
 IPv6 uses a similar method known as Neighbor Discovery.
 
 ***
-
-id: c071b535282c43038b50520b4eae6b2f
-parent_id: 7afef0fe4bbc47abaf1a572cda901f37
-created_time: 2023-07-22T16:16:00.591Z
-updated_time: 2023-07-26T05:12:11.744Z
-is_conflict: 0
-latitude: 34.05223420
-longitude: -118.24368490
-altitude: 0.0000
-author: 
-source_url: 
-is_todo: 0
-todo_due: 0
-todo_completed: 0
-source: joplin-desktop
-source_application: net.cozic.joplin-desktop
-application_data: 
-order: 0
-user_created_time: 2023-07-22T16:16:00.591Z
-user_updated_time: 2023-07-26T05:12:11.744Z
-encryption_cipher_text: 
-encryption_applied: 0
-markup_language: 1
-is_shared: 0
-share_id: 
-conflict_original_id: 
-master_key_id: 
-user_data: 
-type_: 1

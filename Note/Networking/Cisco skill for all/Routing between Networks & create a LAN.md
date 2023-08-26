@@ -1,5 +1,3 @@
-Routing between Networks & create a LAN
-
 **Routing Table Entries**
 If the router cannot determine where to forward a message, it will drop it.
 
@@ -31,33 +29,3 @@ There are many ways to divide networks based on different criteria:
 **Security requirements** - Routers in the distribution layer can separate and protect certain groups of computers where confidential information resides.
 **Physical locations** - Routers in the distribution layer can be used to interconnect local networks at various locations of an organization that are geographically separated.
 **Logical grouping** - Routers in the distribution layer can be used to logically group users, such as departments within a company, who have common needs or for access to resources.
-
-
-id: 8128d785620f4fc897c1dbb024d25f3b
-parent_id: 7afef0fe4bbc47abaf1a572cda901f37
-created_time: 2023-07-27T17:18:12.004Z
-updated_time: 2023-07-30T15:55:41.168Z
-is_conflict: 0
-latitude: 34.05223420
-longitude: -118.24368490
-altitude: 0.0000
-author: 
-source_url: 
-is_todo: 0
-todo_due: 0
-todo_completed: 0
-source: joplin-desktop
-source_application: net.cozic.joplin-desktop
-application_data: 
-order: 0
-user_created_time: 2023-07-27T17:18:12.004Z
-user_updated_time: 2023-07-30T15:55:41.168Z
-encryption_cipher_text: 
-encryption_applied: 0
-markup_language: 1
-is_shared: 0
-share_id: 
-conflict_original_id: 
-master_key_id: 
-user_data: 
-type_: 1

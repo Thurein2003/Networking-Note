@@ -1,5 +1,3 @@
-Dynamic addressing with DHCP
-
 **Static and Dynamic Addressing**
 With a static assignment, the network administrator must manually configure the network information for a host. At a minimum, this includes the host IPv4 address, subnet mask, and default gateway. Static assignment of addressing information can provide increased control of network resources, but it can be time consuming to enter the information on each host. When using static IPv4 addressing, it is important to maintain an accurate list of which IPv4 addresses are assigned to which devices.
 
@@ -12,33 +10,3 @@ The DHCP server is configured with a range, or pool, of IPv4 addresses that can 
 
 For most home and small business networks, a wireless router provides DHCP services to the local network clients. To configure a home wireless router, access its graphical web interface by opening the browser and entering the router default IPv4 address. The IPv4 address of 192.168.0.1 and subnet mask of 255.255.255.0 are the defaults for the internal router interface. This is the default gateway for all hosts on the local network and also the internal DHCP server IPv4 address. Most home wireless routers have DHCP Server enabled by default.
 ***
-
-
-id: 94bcda125294483ea97bfae006736198
-parent_id: 7afef0fe4bbc47abaf1a572cda901f37
-created_time: 2023-07-20T03:19:45.622Z
-updated_time: 2023-07-20T14:36:20.664Z
-is_conflict: 0
-latitude: 34.05223420
-longitude: -118.24368490
-altitude: 0.0000
-author: 
-source_url: 
-is_todo: 0
-todo_due: 0
-todo_completed: 0
-source: joplin-desktop
-source_application: net.cozic.joplin-desktop
-application_data: 
-order: 0
-user_created_time: 2023-07-20T03:19:45.622Z
-user_updated_time: 2023-07-20T14:36:20.664Z
-encryption_cipher_text: 
-encryption_applied: 0
-markup_language: 1
-is_shared: 0
-share_id: 
-conflict_original_id: 
-master_key_id: 
-user_data: 
-type_: 1

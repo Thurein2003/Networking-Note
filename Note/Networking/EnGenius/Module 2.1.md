@@ -1,5 +1,3 @@
-Module 2.1
-
 **ESG510 Initial Setup and Verifications**
 
 **2.1**Power LED, Reset Button
@@ -15,33 +13,3 @@ Amber Solid: BIOS Booting
 Green/Amber Blinking interchanging : Firmware update in progress
 Reset Button: Use a pin to push and hold the “Reset Button" for 10 seconds, then release it to reset ESG to factory default (if not out of the box for the 1st time)
 
-
-
-id: 2eef63de30ef4615a7c3b27e69c7a604
-parent_id: 8aa087d63d444dc78034f88e01c23279
-created_time: 2023-05-02T03:51:42.933Z
-updated_time: 2023-05-02T03:58:57.745Z
-is_conflict: 0
-latitude: 16.25841670
-longitude: 97.72537600
-altitude: 0.0000
-author: 
-source_url: 
-is_todo: 0
-todo_due: 0
-todo_completed: 0
-source: joplin-desktop
-source_application: net.cozic.joplin-desktop
-application_data: 
-order: 0
-user_created_time: 2023-05-02T03:51:42.933Z
-user_updated_time: 2023-05-02T03:58:57.745Z
-encryption_cipher_text: 
-encryption_applied: 0
-markup_language: 1
-is_shared: 0
-share_id: 
-conflict_original_id: 
-master_key_id: 
-user_data: 
-type_: 1

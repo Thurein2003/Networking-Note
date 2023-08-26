@@ -1,5 +1,3 @@
-IPv4 Issues && IPv6 addressing
-
 **The Need for IPv6**
 
 You already know that IPv4 is running out of addresses. That is why you need to learn about IPv6.
@@ -24,38 +22,8 @@ Network Address Translation 64 (NAT64) allows IPv6-enabled devices to communicat
 **IPv6 Addressing**(**Formating system**)
 - IPv6 are 128 bits in length and written as a string of hexadecimal values.
 - every four bits is represented by a single hexadecimal digit.
-![1f2b0eca30dc07470386417d1989cdc4.png](:/95d04267ad97408eb8d104d5f294594b)
+![1f2b0eca30dc07470386417d1989cdc4.png](../../_resources/1f2b0eca30dc07470386417d1989cdc4.png)
 ***
 ***
 
 
-
-
-id: bfb2de4bc338460ab68bda93a0b062f4
-parent_id: 7afef0fe4bbc47abaf1a572cda901f37
-created_time: 2023-07-19T17:08:38.369Z
-updated_time: 2023-07-20T03:09:38.542Z
-is_conflict: 0
-latitude: 34.05223420
-longitude: -118.24368490
-altitude: 0.0000
-author: 
-source_url: 
-is_todo: 0
-todo_due: 0
-todo_completed: 0
-source: joplin-desktop
-source_application: net.cozic.joplin-desktop
-application_data: 
-order: 0
-user_created_time: 2023-07-19T17:08:38.369Z
-user_updated_time: 2023-07-20T03:09:38.542Z
-encryption_cipher_text: 
-encryption_applied: 0
-markup_language: 1
-is_shared: 0
-share_id: 
-conflict_original_id: 
-master_key_id: 
-user_data: 
-type_: 1
